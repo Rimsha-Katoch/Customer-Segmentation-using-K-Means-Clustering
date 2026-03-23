@@ -66,3 +66,17 @@ Each color represents a different customer segment.
 ## 🚀 How to Run
 
 1. Clone the repository:
+   https://github.com/Rimsha-Katoch/Customer-Segmentation-using-K-Means-Clustering
+
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Run the notebook or script
+
+---
+
+## 📌 Future Improvements
+
+- Add more features for better segmentation
+- Use advanced clustering algorithms (DBSCAN, Hierarchical)
+- Deploy as a dashboard
